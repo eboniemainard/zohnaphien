@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://rohreighu.hackers-champloo.org/sitemap.xml
